@@ -30,6 +30,12 @@ $open = ! empty( $item_order ) ? ' open' : '';
             <h4>Interface Options</h4>
 
             <details class="wpie-details-sidebar">
+                <summary>Open Link in New Window</summary>
+                <p>
+                    Allows, specify whether a link in your menu should open in a new browser tab or window. </p>
+            </details>
+
+            <details class="wpie-details-sidebar">
                 <summary>Hold Label open</summary>
                 <p>
                     When enabled, the "Hold Open" option ensures that the menu label (the text representing the

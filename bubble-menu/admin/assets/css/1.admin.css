@@ -766,14 +766,12 @@ input[type=radio].wpie-tab-toggle {
   margin-inline: auto;
 }
 
-.wpie-field__title sup.has-tooltip {
-  position: absolute;
-  inset: -4px -2px auto auto;
-}
-
 .has-tooltip {
   position: relative;
   cursor: help;
+}
+.has-tooltip.is-pointer {
+  cursor: pointer;
 }
 .has-tooltip::before, .has-tooltip::after {
   color: #efefef;
@@ -786,14 +784,15 @@ input[type=radio].wpie-tab-toggle {
   position: absolute;
   top: 0;
   left: 50%;
-  background-color: #DED4FE;
+  background-color: rgba(0, 0, 0, 0.85);
   border-radius: 2px;
-  color: var(--wpie-color-dark);
+  color: #ffffff;
   content: attr(data-tooltip);
   padding: 10px;
   text-transform: none;
   transition: all 0.5s ease;
-  width: 200px;
+  max-width: 200px;
+  width: max-content;
   transform: translateY(calc(-100% - 7px)) translateX(-50%);
   word-wrap: break-word;
   white-space: break-spaces;
@@ -1466,18 +1465,6 @@ a.wpie-like-tag:hover {
 
 .wpie_icon-filter::before {
   content: "\ea36";
-}
-
-.wpie_icon-image::before {
-  content: "\ea37";
-}
-
-.wpie_icon-eye-closed::before {
-  content: "\ea38";
-}
-
-.wpie_icon-chevron-expand-y::before {
-  content: "\ea39";
 }
 
 .wpie-notification {

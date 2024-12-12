@@ -7,7 +7,6 @@
     visibility: hidden;
     opacity: 0;
   }
-
   .is-blur {
     filter: blur(1px);
   }
@@ -21,21 +20,17 @@
   max-width: 750px;
   margin-inline: auto;
 }
-.wpie-field__title {
-  sup.has-tooltip {
-    position: absolute;
-    inset: -4px -2px auto auto;
-  }
-}
 
 .has-tooltip {
   position: relative;
   cursor: help;
+  &.is-pointer {
+    cursor: pointer;
+  }
 
   &::before,
   &::after {
     color: #efefef;
-    //font-family: monospace;
     font-size: 12px;
     opacity: 0;
     pointer-events: none;
@@ -46,14 +41,15 @@
     position: absolute;
     top: 0;
     left: 50%;
-    background-color: #DED4FE;
+    background-color: rgba(0,0,0, 0.85);
     border-radius: 2px;
-    color: var(--wpie-color-dark);
+    color: #ffffff;
     content: attr(data-tooltip); //This pulls in the text from the element with the tooltip
     padding: 10px;
     text-transform: none;
     transition: all 0.5s ease;
-    width: 200px;
+    max-width: 200px;
+    width: max-content;
     transform: translateY(calc(-100% - 7px)) translateX(-50%);
     word-wrap: break-word;
     white-space: break-spaces;
@@ -88,13 +84,12 @@
   }
 
   &.on-right {
-    &::before {
+    &::before{
       top: 50%;
       left: 100%;
       transform: translateY(-50%) translateX(4px);
     }
-
-    &::after {
+    &::after{
       top: 50%;
       left: calc(100% + 2px);
       rotate: 90deg;
@@ -103,13 +98,12 @@
   }
 
   &.on-left {
-    &::before {
+    &::before{
       top: 50%;
       left: -2px;
       transform: translateY(-50%) translateX(-100%);
     }
-
-    &::after {
+    &::after{
       top: 50%;
       left: 0;
       rotate: -90deg;
@@ -118,13 +112,12 @@
   }
 
   &.on-bottom {
-    &::before {
+    &::before{
       top: unset;
       bottom: 0;
       transform: translateY(calc(100% + 7px)) translateX(-50%);
     }
-
-    &::after {
+    &::after{
       top: unset;
       bottom: -7px;
       rotate: 180deg;
@@ -136,11 +129,9 @@
 .wpie-color-orange {
   color: var(--wpie-color-orange) !important;
 }
-
 .wpie-color-success {
   color: var(--wpie-color-success) !important;
 }
-
 .wpie-color-teal {
   color: rgb(var(--wpie-rgb-teal)) !important;
 }
@@ -160,7 +151,6 @@ a.wpie-like-tag {
   font-weight: 700;
   padding: .5em .9em;
   text-decoration: none;
-
   &:hover {
     color: #ffffff;
     background-color: #5522FA;
