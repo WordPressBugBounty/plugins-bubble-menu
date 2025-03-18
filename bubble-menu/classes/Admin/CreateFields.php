@@ -33,7 +33,7 @@ class CreateFields {
 		$opt_val = $args['val'] ?? $args['value'] ?? '';
 		$default = $opt_val;
 
-		if (empty($this->options['tool_id'])) {
+		if ( empty( $this->options['tool_id'] ) ) {
 			$default = $opt_val;
 		}
 
@@ -125,6 +125,10 @@ class CreateFields {
 			'optgroup' => [
 				'label' => [],
 			],
+			'div'      => [
+				'class'          => [],
+				'data-field-box' => [],
+			],
 
 		);
 		$allowed_post_tags[] = $allowed_html;
@@ -183,7 +187,7 @@ class CreateFields {
 		$opt_val = $args['val'] ?? $args['value'] ?? '';
 		$default = $opt_val;
 
-		if (empty($this->options['tool_id'])) {
+		if ( empty( $this->options['tool_id'] ) ) {
 			$default = $opt_val;
 		}
 
@@ -272,19 +276,19 @@ class CreateFields {
 	private function get_attributes( $args, $value ) {
 		$arr = $args['atts'] ?? $args['options'] ?? '';
 
-		if (empty($arr) || !is_array($arr)) {
+		if ( empty( $arr ) || ! is_array( $arr ) ) {
 			return false;
 		}
 		$atts = '';
 
-		foreach ($arr as $key => $val) {
+		foreach ( $arr as $key => $val ) {
 			if ( $args['type'] === 'select' ) {
 				if ( strrpos( $key, '_start' ) ) {
 					$atts .= '<optgroup label="' . esc_attr( $val ) . '">';
 				} elseif ( strrpos( $key, '_end' ) ) {
 					$atts .= '</optgroup>';
 				} else {
-					$atts .= '<option value="' . esc_attr( $key ) . '"' . selected( $value, $key,false ) . '>' . esc_html( $val ) . '</option>';
+					$atts .= '<option value="' . esc_attr( $key ) . '"' . selected( $value, $key, false ) . '>' . esc_html( $val ) . '</option>';
 				}
 			} else {
 				$atts .= ' ' . esc_attr( $key ) . '="' . esc_attr( $val ) . '"';

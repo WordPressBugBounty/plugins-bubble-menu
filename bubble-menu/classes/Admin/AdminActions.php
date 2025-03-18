@@ -69,6 +69,7 @@ class AdminActions {
 			WOWP_Plugin::PREFIX . '_activate_mode',
 			WOWP_Plugin::PREFIX . '_deactivate_mode',
 			WOWP_Plugin::PREFIX . '_capabilities',
+			WOWP_Plugin::PREFIX . '_list_action',
 		];
 
 		foreach ( $names as $name ) {

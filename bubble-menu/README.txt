@@ -5,7 +5,7 @@ Tags: sticky, floating menu, nav menu, fixed, menu
 Requires at least: 5.5
 Tested up to: 6.7
 Requires PHP: 7.4
-Stable tag: 4.0.3
+Stable tag: 4.0.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -89,9 +89,13 @@ section. Or unzip the archive and upload the folder to the plugins directory `/w
 4. Display Rules
 
 == Changelog ==
+
+= 4.0.4 =
+* Updated: class CreateFields
+* Update: translation file
+
 = 4.0.3 =
 * Fixed: Nonce verification logic for improved security.
-
 
 = 4.0.2 =
 * Updated: UI elements

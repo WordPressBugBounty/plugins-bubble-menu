@@ -166,7 +166,7 @@ $sites = [
 		'content' => 'Collection of online calculators and converters for various applications.'
 	],
 ];
-
+// phpcs:disable PluginCheck.CodeAnalysis.ImageFunctions.NonEnqueuedImage
 ?>
 
 <div class="wrap full-width-layout wpie-page">
@@ -299,3 +299,5 @@ $sites = [
 
     </div>
 </div>
+<?php
+// phpcs:enable
