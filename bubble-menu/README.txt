@@ -1,202 +1,287 @@
-=== Bubble Menu - Sticky Navigation with Floating Button Menu Solution ===
+=== Bubble Menu – Floating Button Menu with Sticky Navigation ===
 Contributors: Wpcalc, lobov
 Donate link: https://wow-estore.com/item/bubble-menu-pro/
-Tags: sticky, floating menu, nav menu, fixed, menu
+Tags: bubble menu, floating menu, sticky navigation, floating buttons, circle menu
 Requires at least: 5.5
 Tested up to: 6.7
 Requires PHP: 7.4
-Stable tag: 4.0.4
+Stable tag: 4.0.5
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Effortlessly establish a custom floating button menu with Bubble Menu, an effective enhancement to multiply recognition of your digital space.
+Create interactive floating bubble menus to enhance site navigation and boost user engagement effortlessly.
 
 == Description ==
+[🌟 Try Free Demo](https://lite.wow-estore.com/bubble-menu/) | [🚀 Try Pro Demo](https://demo.wow-estore.com/bubble-menu-pro/) | [📖 Documentation](https://wow-estore.com/documentations/bubble-menu-lite/)
 
-Bubble Menu, a complimentary plugin for WordPress, gracefully augments your site with an innovative bubble floating menu. This extension facilitates the installation of floating buttons bedecked with unique thematic icons, catering to additional informative blocks for users.
+**Bubble Menu** is a **free WordPress plugin** that lets you easily create stylish, interactive floating menus in a unique circular (bubble) style. These visually appealing menus provide quick access to important links and help visitors navigate your site effortlessly, increasing engagement and conversions.
 
-Adding Bubble Menu to your site not only escalates recognition but also infuses a sense of originality and innovation with the user-friendly navigation it supports. Create a contact panel, position useful information and much more with this extension.
+### 🌟 Key Benefits:
 
-= Main features =
+- Quickly set up interactive floating bubble menus.
+- Boost user interaction and site navigation efficiency.
+- Fully customizable and visually engaging.
+- Lightweight & optimized for performance.
 
-* Freely create countless menus
-* Choose from 8 different positions for floating buttons
-* An option to append custom attributes like Class, ID, Rel to links
-* Over 2000 Font Awesome 6 Icons at your disposal
-* Capability to incorporate any links
-* Use tooltips to convey additional information
-* Four distinct button shapes
-* Specific control over display on devices
-* Adjustable button size
-* Select color and background for buttons
-* Choose label position for button
-* Select animation for button upon opening
+✅ **Give your website a fresh, modern feel with Bubble Menu!**
 
-= Deploy Bubble Menu for: =
+--
 
-* Navigation across the site
-* A supplementary menu
-* A social panel
-* User menu
-* Skype menu
-* and more
+= Main Features =
 
-**Enhance functionalities by integrating the Bubble Menu with these free plugins:**
+Bubble Menu simplifies navigation, allowing visitors easy access to critical content and actions. Fully customize your bubble menus to align perfectly with your site's design.
 
-* Buttons: Design engaging call-to-action buttons and much more within your popups. (Buttons Plugin Link: [https://wordpress.org/plugins/buttons/](https://wordpress.org/plugins/buttons/))
-* Counter Box: Create captivating countdown timers and informative banners. (Counter Box Plugin Link: [https://wordpress.org/plugins/counter-box/](https://wordpress.org/plugins/counter-box/))
-* Calculator Builder: Establish an online calculator with ease. (Calculator Builder Plugin Link: [https://wordpress.org/plugins/calculator-builder/](https://wordpress.org/plugins/calculator-builder/))
-* Herd Effects: A plugin for crafting social proof and notifications (Herd Effects Plugin Link: [https://wordpress.org/plugins/mwp-herd-effect/](https://wordpress.org/plugins/mwp-herd-effect/))
-* Popup Box: A fresh WordPress popup plugin (Popup Box Plugin Link: [https://wordpress.org/plugins/mwp-herd-effect/](https://wordpress.org/plugins/popup-box/))
+### 🎨 **Customization & Styling**
 
-**Test out our library of plugins tailored for crafting menus:**
+- Create **unlimited floating menus**.
+- Choose from **8 different menu positions** on your screen.
+- Pick from **4 distinct button shapes**: Round, Square, Rounded, Rounded-out.
+- Customize individual button **colors and backgrounds**.
+- Choose button animation styles upon opening.
+- Set label positions (left, right, top, bottom) for buttons.
+- Add tooltips for better user guidance.
 
-* [Floating Button](https://wordpress.org/plugins/floating-button/) – Generate and manage sticky floating buttons effortlessly.
-* [Sticky Buttons](https://wordpress.org/plugins/sticky-buttons/) – Simplified creation of sticky buttons of varied complexity.
-* [Side Menu](https://wordpress.org/plugins/bubble-menu/) – Provide any extra content and functionality with the attention-grabbing side menu.
-* [Float Menu](https://wordpress.org/plugins/float-menu/) – Create floating menus easily and of diverse complexity.
+### 🔗 **Links & Accessibility**
 
+- Insert **any link type** in your menu items.
+- Access **2000+ Font Awesome 6 Icons** for visual appeal.
+- Append custom attributes (`class`, `ID`, `rel`, `aria-label`) for advanced styling and SEO.
+- Control visibility specifically for desktop, mobile, or tablet devices.
 
-**_We are eager for you to experience these plugins designed for your sticky menus creation needs!_**
+### ⚡ **Performance & Compatibility**
 
-### EXPERIENCE THE PRO VERSION ###
+- Lightweight – minimal impact on page load speed.
+- Fully responsive design, compatible with all WordPress themes.
+- SEO-friendly structure to boost indexing potential.
 
-Upgrade to the Pro version to unlock thrilling features and transform your sticky buttons menu creation journey!
+--
 
-[Upgrade to Pro](https://wow-estore.com/item/bubble-menu-pro/) | [Demo Pro](https://demo.wow-estore.com/bubble-menu-pro/)
+= Ideal Uses for Bubble Menu =
 
+- Simplified site navigation.
+- Social media quick-links.
+- Contact and feedback panels.
+- Quick access user menus.
+- Promotion of special offers or announcements.
+- Innovative multilingual navigation.
+- Mobile-friendly menu solutions.
+- And much more!
+
+--
+
+= 🚀 Bubble Menu PRO =
+
+Unlock advanced customization and functionality:
+
+### 🎨 **Advanced Customization**
+
+- Custom Icon Upload – use your own branded icons.
+- Additional unique animation effects for menu interactions.
+- Advanced styling options for menus and tooltips.
+
+### 🔗 **Extended Functionalities**
+
+- Easy social sharing integration.
+- One-click page translation.
+- Smooth scrolling to page sections.
+- Quick print and download buttons.
+- Scroll to top/bottom navigation.
+
+### 🎯 **Advanced Visibility Rules**
+
+- Conditional display based on scroll, timer, and user actions.
+- Multilingual menu support.
+- Scheduled menu visibility.
+- Visibility based on URL or referrer URL.
+- Browser-based menu display control.
+
+🚀 [Upgrade to Bubble Menu Pro](https://wow-estore.com/item/bubble-menu-pro/) and supercharge your menus!
+
+--
+
+= 🚀 Combine Bubble Menu with Our Complementary Plugins =
+
+- [Popup Box](https://wordpress.org/plugins/popup-box/) – Powerful popups and lead capture forms.
+- [Counter Box](https://wordpress.org/plugins/counter-box/) – Dynamic counters, timers, countdowns.
+- [Sticky Buttons](https://wordpress.org/plugins/sticky-buttons/) – Fully customizable sticky buttons.
+- [Side Menu Lite](https://wordpress.org/plugins/side-menu-lite/) – Professional side navigation menus.
+- [Floating Button](https://wordpress.org/plugins/floating-button/) – Interactive floating action buttons.
+- [Modal Window](https://wordpress.org/plugins/modal-window/) – Beautiful modal windows.
+- [Calculator Builder](https://wordpress.org/plugins/calculator-builder/) – Custom interactive calculators.
+- [Herd Effects](https://wordpress.org/plugins/mwp-herd-effect/) – Social proof notifications.
+- [Float Menu](https://wordpress.org/plugins/float-menu/) – Flexible side navigation menus.
+
+✅ **Combine plugins to build a highly interactive and user-friendly website!**
 
 = Support =
 
-Search for answers and ask your questions at [support center](https://wordpress.org/support/plugin/bubble-menu)
+Need help? Visit our [support center](https://wordpress.org/support/plugin/bubble-menu) for quick answers.
 
-== Installation ==
+== Frequently Asked Questions ==
 
-* Installation option 1: Find and install this plugin in the `Plugins` -> `Add new` section of your `wp-admin`
-* Installation option 2: Download the zip file, then upload the plugin via the wp-admin in the `Plugins` -> `Add new`
-section. Or unzip the archive and upload the folder to the plugins directory `/wp-content/plugins/` via FTP
-* Click `Activate` when you have installed the plugin via dashboard or press `Activate` in the `Plugins` list
-* Go to `Bubble Menu` section that will appear in your main menu on the left
-* Click `Add new` to create your first menu
-* Setup your menu
-* Click 'Save'
+= Why don't the buttons appear on my site? =
+If the buttons aren't showing, it's usually caused by caching issues. To fix this, follow these steps:
+
+1. **Clear browser cache** – Press `Ctrl + Shift + R` (Windows) or `Cmd + Shift + R` (Mac).
+2. **Clear WordPress cache** – Purge cache in your caching plugin settings (WP Rocket, W3 Total Cache, LiteSpeed Cache).
+3. **Clear hosting/server cache** – Purge cache via hosting control panel (Cloudflare, SiteGround, Nginx).
+4. **Temporarily disable caching** – If the above steps don't help, deactivate caching plugins temporarily to confirm.
+
+= Buttons appear only for administrators. How can I make them visible to everyone? =
+Make sure **Test Mode** is turned off. When Test Mode is active, the buttons are visible only to site administrators and hidden from regular visitors.
+
+= Can I customize button placement on my site? =
+Yes! You can position the buttons to appear on the **left, right, top, or bottom** of your site from the plugin settings.
+
+= Can I show buttons only on specific pages or posts? =
+Yes. In the **Lite version**, you can:
+- Display buttons **sitewide** (all pages).
+- Manually insert buttons using the shortcode `[Bubble-Menu id="1"]` to place buttons only on specific pages or posts.
+
+The **Pro version** provides advanced targeting options by categories, specific pages, post types, user roles, and more.
+
+= Can I create multiple button sets on one page? =
+Absolutely! You can create and use multiple sets of Bubble Menu buttons simultaneously, each with its own configuration and style.
+
+= How do I use Bubble Menu on a multisite network? =
+For multisite installations, **don't activate Bubble Menu network-wide**. Instead, activate it individually **on each site** where you plan to use it.
+
+= Will Bubble Menu slow down my website? =
+No. Bubble Menu is lightweight and optimized for maximum speed and performance, ensuring minimal impact on your site's loading time.
+
+== Installation Instructions ==
+
+### 📌 Option 1: Install via WordPress Dashboard
+
+1. Go to your WordPress admin dashboard (`wp-admin`).
+2. Navigate to `Plugins` → `Add New`.
+3. Search for **"Bubble Menu"** and click **"Install Now"**.
+4. After installation, click **"Activate"**.
+
+### 📌 Option 2: Manual Installation (Upload)
+
+1. Download the plugin's zip file.
+2. In your WordPress dashboard, go to `Plugins` → `Add New` → `Upload Plugin`.
+3. Select the downloaded zip file, then click **"Install Now"**.
+4. After installation, click **"Activate"**.
+
+**Alternatively (FTP):**
+
+- Unzip the downloaded plugin file.
+- Upload the extracted `bubble-menu` folder to your server's `/wp-content/plugins/` directory via FTP.
+- Go to Plugins in your WordPress dashboard and click **"Activate"** next to Bubble Menu.
+
+### 🚀 Getting Started
+
+1. Once activated, a new `Bubble Menu` section will appear in your WordPress admin menu (on the left side).
+2. Click **"Add New"** to create your first button set.
+3. Configure your buttons as needed.
+4. Click **"Save"** to finalize and display your bubble buttons on the website.
 
 == Screenshots ==
 
-1. Preview on Front-end
-2. Main Settings
-3. Sub-buttons settings
-4. Display Rules
+1. Front-end preview of the Bubble Menu.
+2. Main settings panel for customizing Bubble Menu.
+3. Sub-buttons configuration screen.
+4. Display rules and visibility options.
 
 == Changelog ==
 
+= 4.0.5 =
+* Updated: Helpful links on the settings page.
+* Updated: `wp-color-picker-alpha` to **3.0.4**.
+
 = 4.0.4 =
-* Updated: class CreateFields
-* Update: translation file
+* Updated: Improved CreateFields class.
+* Updated: Translation files.
 
 = 4.0.3 =
-* Fixed: Nonce verification logic for improved security.
+* Fixed: Nonce verification logic (security improvement).
 
 = 4.0.2 =
-* Updated: UI elements
-* Updated: FontAwesome Icon 6.7.1
+* Updated: User interface improvements.
+* Updated: FontAwesome Icons to version **6.7.1**.
 
 = 4.0.1 =
-* Fixed: main icon in the admin menu.
-* Fixed: minor bugs
-* Update: translate file
+* Fixed: Main admin menu icon.
+* Fixed: Minor bug fixes.
+* Updated: Translation files.
 
 = 4.0 =
-* Added: Create unlimited sub-buttons.
-* Added: Ability to set the shapes to buttons: Circle, Rounded, Ellipse, Square
-* Added: Two animations for opening the buttons: One by one and All at once
-* Added: Option to choose different sizes.
-* Added: Option to hide/show the shadow for the button.
-* Added: Option to choose color and background for button
-* Added: Select label position for button
-* Added: Option to set label for the main button
-* Added: New Button Types: login, logout, lost password, register
-* Added: Ability to change menu status and mode from the list of all menus.
-* Added: The ability to change the menu status and mode for several selected menus from the list.
-* Added: Control the display of the plugin in the dashboard based on users' roles
-* Updated: FontAwesome Icon to version 6.6
-* Improved: Refreshed Interface - Revamped the plugin's dashboard page style for a more intuitive and user-friendly experience.
+* Added: Unlimited sub-button creation.
+* Added: Button shape options (Circle, Rounded, Ellipse, Square).
+* Added: Animation types for button opening (One by one, All at once).
+* Added: Button size customization.
+* Added: Button shadow visibility option.
+* Added: Custom button colors and backgrounds.
+* Added: Label positioning options.
+* Added: Main button label setting.
+* Added: New button types (Login, Logout, Lost Password, Register).
+* Added: Quick menu status and mode updates from menu list.
+* Added: Bulk updates for menu status and mode.
+* Added: Role-based dashboard visibility control.
+* Updated: FontAwesome Icons to **6.6**.
+* Improved: Refreshed dashboard interface for better usability.
 
 = 3.1.1 =
-
-* Fixed: dynamic property for PHP 8.2
+* Fixed: PHP 8.2 dynamic property issue.
 
 = 3.1 =
-
-* Updated: Update FontAwesome to version 6.4.2
+* Updated: FontAwesome Icons to **6.4.2**.
 
 = 3.0.5 =
-
-* Fixed: sanitize saving Link
+* Fixed: Input sanitization for links.
 
 = 3.0.4 =
-
-* Fixed: escape the user input in page-list
+* Fixed: Escaped user input on page-list.
 
 = 3.0.3 =
-
-* Fixed: remove duplicate menus on the page
+* Fixed: Duplicate menu rendering issue.
 
 = 3.0.2 =
-
-* Fixed: security issues
+* Fixed: Security improvements.
 
 = 3.0.1 =
-
-* Fixed: minor bug
+* Fixed: Minor bug fix.
 
 = 3.0 =
-
-* Changed: Admin style
-* Added: option 'Attribute: rel' to link
-* Added: option 'Deactivated' for deactivating the menu
-* Added: option 'Test Mode' - menu will show only for admin
+* Changed: Updated admin interface style.
+* Added: 'rel' attribute option for links.
+* Added: Menu deactivation option.
+* Added: "Test Mode" (visible only to administrators).
 
 = 2.2.1 =
-Fixed: minor bugs
+* Fixed: Minor bug fixes.
 
 = 2.2 =
-
-* Updated: FontAwesome Icon to 5.15.3
+* Updated: FontAwesome Icons to **5.15.3**.
 
 = 2.1.2 =
-
-* Fixed: minor bugs
+* Fixed: Minor bug fixes.
 
 = 2.1 =
-
-* Updated: FontAwesome Icons to version 5.14
+* Updated: FontAwesome Icons to **5.14**.
 
 = 2.0 =
-
-* Added: 4 positions
-* Added: Custom number of menu items
-* Added: custom attributes CLASS and ID to the menu item
-* Added: option for disabling FontAwesome 5 from front-end
-* Updated: FontAwesome to version 5
-* Changed: admin style
+* Added: Four positioning options.
+* Added: Customizable number of menu items.
+* Added: Custom attributes (CLASS and ID) for menu items.
+* Added: Option to disable FontAwesome 5 on frontend.
+* Updated: FontAwesome Icons to version **5**.
+* Changed: Updated admin style.
 
 = 1.3 =
-
-* Fixed: minor bugs
-* Fixed: main class
+* Fixed: Minor bugs.
+* Fixed: Main plugin class adjustments.
 
 = 1.2 =
-
-* Fixed: minor bugs
-* Changed: structure
-* Added: Support page
-* Added: Discount page
+* Fixed: Minor bug fixes.
+* Changed: Code structure improvements.
+* Added: Support page.
+* Added: Discount information page.
 
 = 1.1 =
-
-* Fixed: minor bugs
+* Fixed: Minor bug fixes.
 
 = 1.0 =
-
-* Initial release
+* Initial release.
