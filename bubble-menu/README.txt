@@ -3,7 +3,7 @@ Contributors: Wpcalc, lobov
 Donate link: https://wow-estore.com/item/bubble-menu-pro/
 Tags: bubble menu, floating menu, sticky navigation, floating buttons, circle menu
 Requires at least: 5.5
-Tested up to: 6.7
+Tested up to: 6.8
 Requires PHP: 7.4
 Stable tag: 4.0.5
 License: GPLv2 or later
@@ -149,7 +149,7 @@ For multisite installations, **don't activate Bubble Menu network-wide**. Instea
 = Will Bubble Menu slow down my website? =
 No. Bubble Menu is lightweight and optimized for maximum speed and performance, ensuring minimal impact on your site's loading time.
 
-== Installation Instructions ==
+== Installation ==
 
 ### 📌 Option 1: Install via WordPress Dashboard
 
