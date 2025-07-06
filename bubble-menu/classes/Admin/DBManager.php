@@ -1,4 +1,24 @@
 <?php
+/**
+ * DBManager class for Bubble Menu plugin.
+ *
+ * @package BubbleMenu\Admin
+ *
+ *  Methods:
+ *  - create()                Create database table
+ *  - get_columns()           Get table column structure
+ *  - insert()                Insert new row
+ *  - update()                Update existing row
+ *  - delete()                Delete row by ID
+ *  - remove_item()           Handle item removal from GET request
+ *  - get_all_data()          Get all rows from table
+ *  - get_data_by_id()        Get single row by ID
+ *  - get_data_by_title()     Get row by title
+ *  - get_param_id()          Get and unserialize param by ID
+ *  - check_row()             Check if row exists by ID
+ *  - get_tags_from_table()   Get unique tags
+ *  - display_tags()          Output HTML <option> tags for tags
+ */
 
 namespace BubbleMenu\Admin;
 

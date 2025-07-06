@@ -5,7 +5,7 @@ Tags: bubble menu, floating menu, sticky navigation, floating buttons, circle me
 Requires at least: 5.5
 Tested up to: 6.8
 Requires PHP: 7.4
-Stable tag: 4.0.5
+Stable tag: 4.0.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -149,7 +149,7 @@ For multisite installations, **don't activate Bubble Menu network-wide**. Instea
 = Will Bubble Menu slow down my website? =
 No. Bubble Menu is lightweight and optimized for maximum speed and performance, ensuring minimal impact on your site's loading time.
 
-== Installation ==
+== Installation Instructions ==
 
 ### 📌 Option 1: Install via WordPress Dashboard
 
@@ -186,6 +186,11 @@ No. Bubble Menu is lightweight and optimized for maximum speed and performance, 
 4. Display rules and visibility options.
 
 == Changelog ==
+
+= 4.0.6 =
+* Improved: Reorganized method order in DBManager class for better readability and maintenance
+* Improved: Minor SQL formatting for consistency
+* Cleaned: Minor code style improvements according to WordPress Coding Standards (WPCS)
 
 = 4.0.5 =
 * Updated: Helpful links on the settings page.
