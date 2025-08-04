@@ -5,7 +5,7 @@ Tags: bubble menu, floating menu, sticky navigation, floating buttons, circle me
 Requires at least: 5.5
 Tested up to: 6.8
 Requires PHP: 7.4
-Stable tag: 4.0.6
+Stable tag: 4.0.7
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -186,6 +186,11 @@ No. Bubble Menu is lightweight and optimized for maximum speed and performance, 
 4. Display rules and visibility options.
 
 == Changelog ==
+
+= 4.0.7 =
+* Improved: Refactored AdminActions class for better performance and readability
+* Improved: Reordered condition checks for better execution performance
+* Updated: Added strict type hinting for method arguments in AdminActions
 
 = 4.0.6 =
 * Improved: Reorganized method order in DBManager class for better readability and maintenance
