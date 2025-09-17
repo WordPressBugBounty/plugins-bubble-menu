@@ -110,14 +110,13 @@ class WOWP_Admin {
 		wp_enqueue_script( 'htmlhint' );
 		wp_enqueue_script( 'csslint' );
 
-		wp_enqueue_style( 'notification-fontawesome', WOWP_Plugin::url() . 'vendors/fontawesome/css/all.min.css', [], '6.6' );
 
 		// include fonticonpicker styles & scripts
 		$url_assets        = WOWP_Plugin::url() . 'vendors/';
 		$slug              = WOWP_Plugin::SLUG;
 		$version = WOWP_Plugin::info( 'version' );
 
-		wp_enqueue_style( $slug. '-fontawesome', $url_assets . '/fontawesome/css/all.min.css', [], '6.6' );
+		wp_enqueue_style( $slug. '-fontawesome', $url_assets . '/fontawesome/css/all.min.css', [], '7.0' );
 
 		$fonticonpicker_js = $url_assets . 'fonticonpicker/js/jquery.fonticonpicker.js';
 		wp_enqueue_script( $slug . '-fonticonpicker', $fonticonpicker_js, array( 'jquery' ), $version, true );

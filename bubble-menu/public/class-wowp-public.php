@@ -94,7 +94,7 @@ class WOWP_Public {
 		}
 		foreach ( $args as $id => $param ) {
 			if ( empty( $param['fontawesome'] ) ) {
-				wp_enqueue_style( $handle . '-fontawesome', $url_fontawesome, null, '6.6' );
+				wp_enqueue_style( $handle . '-fontawesome', $url_fontawesome, null, '7.0' );
 			}
 		}
 	}
@@ -120,7 +120,7 @@ class WOWP_Public {
 			$content = new Content( $id, $param );
 			echo $content->init();
 			if ( empty( $param['fontawesome'] ) ) {
-				wp_enqueue_style( $handle . '-fontawesome', $url_fontawesome, null, '6.6' );
+				wp_enqueue_style( $handle . '-fontawesome', $url_fontawesome, null, '7.0' );
 			}
 
 		}
@@ -177,7 +177,7 @@ class WOWP_Public {
 			if ( ! empty( $tmp_classes ) ) {
 				$classes   = array_values( array_diff( $classes, $tmp_classes ) );
 				$url_icons = WOWP_Plugin::url() . 'vendors/fontawesome/css/all.css';
-				wp_enqueue_style( 'fontawesome', $url_icons, null, '6.6' );
+				wp_enqueue_style( 'fontawesome', $url_icons, null, '7.0' );
 			}
 		}
 
