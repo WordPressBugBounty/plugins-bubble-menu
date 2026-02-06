@@ -3,9 +3,9 @@ Contributors: Wpcalc, lobov
 Donate link: https://wow-estore.com/item/bubble-menu-pro/
 Tags: bubble menu, floating menu, sticky navigation, floating buttons, circle menu
 Requires at least: 5.5
-Tested up to: 6.8
+Tested up to: 6.9
 Requires PHP: 7.4
-Stable tag: 4.1
+Stable tag: 4.1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -186,6 +186,10 @@ No. Bubble Menu is lightweight and optimized for maximum speed and performance, 
 4. Display rules and visibility options.
 
 == Changelog ==
+= 4.1.1 =
+* Updated: Font Awesome library upgraded to version **7.1**.
+* Fixed: minor bug fixes.
+
 = 4.1 =
 * Updated: Font Awesome library upgraded to version **7.0.0**.
 
